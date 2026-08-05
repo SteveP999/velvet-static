@@ -1,11 +1,11 @@
 {
-  "title": "New Music Coming Soon",
+  "title": "Hit The Peak",
   "artist": "Velvet Static",
-  "album": "",
+  "album": "Velvet Static",
   "type": "Latest Single",
-  "cover": "",
-  "image": "",
-  "audio": "",
-  "audioSrc": "",
+  "cover": "images/covers/velvet-static-hit-the-peak-cover.png",
+  "image": "images/covers/velvet-static-hit-the-peak-cover.png",
+  "audio": "https://www.dropbox.com/scl/fi/z2j290ir55hetk54q8x8u/hit-the-peak-by-velvet-static.mp3?rlkey=6dshx8xxdezk4i2h8ymwcvqbk&raw=1",
+  "audioSrc": "https://www.dropbox.com/scl/fi/z2j290ir55hetk54q8x8u/hit-the-peak-by-velvet-static.mp3?rlkey=6dshx8xxdezk4i2h8ymwcvqbk&raw=1",
   "videos": []
 }
